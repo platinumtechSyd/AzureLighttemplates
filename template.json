@@ -23,7 +23,7 @@
   "managedByTenantId": "0d26a91e-0ee5-494f-bc6c-14c46ed7e451",
   "authorizations": [
    {
-    "principalId": "f65703fc-2dfa-4f77-a2f9-041e17613f7d",
+    "principalId": "0fdf1547-436b-40e1-a787-9b3a469294fb",
     "roleDefinitionId": "fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64",
     "principalIdDisplayName": "Platinum - GlobalBillingSPN"
    }
