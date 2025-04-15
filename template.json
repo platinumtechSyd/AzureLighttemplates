@@ -38,7 +38,7 @@
     "registrationDefinitionName": "[parameters('mspOfferName')]",
     "description": "[parameters('mspOfferDescription')]",
     "managedByTenantId": "[variables('managedByTenantId')]",
-    "authorizations": "[variables('authorizations')]"
+    "authorizations": variables('authorizations')
    }
   },
   {
@@ -60,7 +60,7 @@
   },
   "authorizations": {
    "type": "array",
-   "value": "[variables('authorizations')]"
+   "value": variables('authorizations')
   }
  }
 }
