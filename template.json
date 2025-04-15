@@ -7,7 +7,7 @@
    "metadata": {
     "description": "Specify a unique name for your offer"
    },
-   "defaultValue": "Platinum0GlobalBillingAccess"
+   "defaultValue": "Platinum-GlobalBillingAccess"
   },
   "mspOfferDescription": {
    "type": "string",
